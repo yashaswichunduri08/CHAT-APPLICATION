@@ -29,8 +29,8 @@ Ideal for learning real-time communication with WebSockets!
 
 # OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/e7fada24-e83f-477f-8426-4fcdbcdb829c)
-
 ![Image](https://github.com/user-attachments/assets/6a6342e2-0073-4157-8f70-9089e34e11cd)
 
 ![Image](https://github.com/user-attachments/assets/bc5c976d-e90d-45c4-aa35-7cae208c054e)
+
+![Image](https://github.com/user-attachments/assets/e7fada24-e83f-477f-8426-4fcdbcdb829c)
